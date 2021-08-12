@@ -1,6 +1,9 @@
 # DDfG-2021-ATI
 
-### Visualizing the STEM education racialgap with the Antiracist Tech Initiative @ BU's Center for Antiracist Technology
+### Visualizing the STEM education racial gap with the Antiracist Tech Initiative @ BU's Center for Antiracist Technology
+
+<div style="text-align:center"><img src="Images/readme-image.png" /></div>.
+
 
 ## Partner
 
@@ -12,13 +15,19 @@ Learn more on [their website](https://www.bu.edu/antiracism-center/).
 
 The ATI is looking to use data to help promote action focused on addressing the racial gap in STEM education. They want to help the public (and particularly people in power to change structures and policies) understand the disparities and change their views about what can be done.
 
-## Data
+## Data + Code
 
 Data on Race and Ethnicity in Higher Ed from the American Council on Education: https://www.equityinhighered.org/data-tables/
 
 
 Civil Rights Data Collection -- Data on High Schools and Stem: https://ocrdata.ed.gov/resources/downloaddatafile 
 
+
+Western Mass school data (from earlier DDfG project) and related analysis:
+https://github.com/massmutual/ddfg19-twm
+
+Data on US colleges + shiny app code:
+https://github.com/tdao38/CS590V
 
 ## Sample Visualizations for Inspiration
 
