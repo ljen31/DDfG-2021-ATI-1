@@ -38,3 +38,33 @@ https://github.com/tdao38/CS590V
 ## General Resources
 
 "Understanding the STEM Pipeline": https://caldercenter.org/sites/default/files/WP%20125.pdf
+
+## Vis Tools
+
+General: 
+
+- MM Color Guide: https://ds-signal-web.dev-kube.dsawsnprd.massmutual.com/visualization/colors 
+
+- Tableau Public: https://public.tableau.com/en-us/s/
+
+- Datawrapper: https://www.datawrapper.de 
+
+- Infogram (infographic style): https://infogram.com 
+
+
+Python:
+
+- Streamlit (looks easiest and likely most useful): https://streamlit.io 
+
+- Heroku: https://www.heroku.com
+
+- Altair/Vega Lite: https://altair-viz.github.io
+
+- Plotly: https://plotly.com/python/
+
+R:
+
+- Shiny https://shiny.rstudio.com/tutorial/ 
+
+- Deploy @ https://www.shinyapps.io 
+
