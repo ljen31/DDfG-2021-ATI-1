@@ -5,7 +5,7 @@
 <div style="text-align:center"><img src="Images/readme-image.png" /></div>.
 
 
-## Partner
+## Partner Org
 
 “The Boston University Center for Antiracist Research represents a collaborative research and education effort across multiple disciplines to build a world where racial equity and social justice prevail.” The Antiracist Tech Initiative “aims to build antiracist organizations across the entire tech ecosystem…by working in interdisciplinary research teams, partnering with practitioners, policymakers, and advocates, harnessing big data, and testing evidence-based solutions to determine what policies and actions create antiracist organizations.”
 
