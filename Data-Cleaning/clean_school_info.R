@@ -47,3 +47,22 @@ Support <- Support %>%
   mutate(across(SCH_FTETEACH_TOT:SCH_FTESERVICES_SOC, ~na_if(., -1)))
 
 
+# Join Data
+
+Enrollment <- Enrollment %>%
+  select(COMBOKEY, SCH_PSENR_NONIDEA_A3:SCH_ENR_504_M)
+
+Expenditures <- Expenditures %>%
+  select(COMBOKEY, SCH_SAL_TOTPERS_WOFED:SCH_NPE_WFED)
+
+Support <- Support %>%
+  select(COMBOKEY, SCH_FTETEACH_TOT:SCH_FTESERVICES_SOC)
+
+SchoolInfo <- Enrollment %>%
+  inner_join(Expenditures, by = "COMBOKEY") %>%
+  inner_join(Support, by = "COMBOKEY")
+
+
+
+
+#readr::write_csv(SchoolInfo, "Data/School_Details/SchoolInfo_Combined.csv")
